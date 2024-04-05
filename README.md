@@ -11,7 +11,7 @@ The network is structured into the following segments:
 - **Production 1**
 - **Production 2**
 
-![Network Diagram](<img width="1729" alt="Screenshot 2024-04-05 at 11 11 29" src="https://github.com/cyber272/Network_Plan/assets/155965877/78861d23-2a9f-4c92-a284-fae582c96a8d">)
+[Network Diagram](<img width="1729" alt="Screenshot 2024-04-05 at 11 11 29" src="https://github.com/cyber272/Network_Plan/assets/155965877/78861d23-2a9f-4c92-a284-fae582c96a8d">)
 
 
 
